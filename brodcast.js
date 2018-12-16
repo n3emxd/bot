@@ -7,7 +7,7 @@ client.on('ready', () => {
 
 
 
-client.login('NTEyNzQ5NTQ4MjU5NzcwMzcw.Ds-CIg.oJouMLa0-O3EiUYz545FVGogWJk');
+client.login('NTIzNjg4MTQ2OTYyMDg3OTM2.DvdKPw.EMq4yAksPkEnk0jDsj2pCUiPgio');
 
 
 
@@ -44,7 +44,7 @@ client.on('message', message => {
 	
 	
 	
-client.login('NTEyNzQ5NTQ4MjU5NzcwMzcw.Ds-CIg.oJouMLa0-O3EiUYz545FVGogWJk');
+client.login('NTIzNjg4MTQ2OTYyMDg3OTM2.DvdKPw.EMq4yAksPkEnk0jDsj2pCUiPgio');
 
 
 
@@ -76,4 +76,4 @@ client.on('message', message => {
     }
     });
 
-client.login('NTEyNzQ5NTQ4MjU5NzcwMzcw.Ds-CIg.oJouMLa0-O3EiUYz545FVGogWJk');
+client.login(process.env.BOT_TOKEN);
